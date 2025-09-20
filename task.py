@@ -1,5 +1,3 @@
 print("C1")
 print("C2")
 print("C3")
-print("C8")
-print("C9")
